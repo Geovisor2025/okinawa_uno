@@ -473,7 +473,7 @@ var searchLayer = new SearchLayer({
 });
 map.addControl(searchLayer);
 document.getElementsByClassName('search-layer')[0].getElementsByTagName('button')[0].className += ' fa fa-binoculars';
-document.getElementsByClassName('search-layer-input-search')[0].placeholder = 'Search feature ...';
+document.getElementsByClassName('search-layer-input-search')[0].placeholder = 'Buscar Comunidad ...';
     
 
 //scalebar
